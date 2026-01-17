@@ -107,4 +107,6 @@ Build executive-grade dashboards
 
 Align analytics with business outcomes
 
-Communicate insights visually and strategically
+Communicate insights visually and strategically.
+
+
