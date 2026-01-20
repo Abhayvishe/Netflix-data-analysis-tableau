@@ -110,3 +110,8 @@ Align analytics with business outcomes
 Communicate insights visually and strategically.
 
 
+
+
+📎 GitHub: https://github.com/Abhayvishe
+📎 LinkedIn: https://www.linkedin.com/in/abhay-vishe
+
